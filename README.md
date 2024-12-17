@@ -1,5 +1,5 @@
 ## Ghbdtn)
-<img src="https://sun9-54.userapi.com/impg/3AbGLgOYYkxJ_LurEFbtmwXEOsdt7V_fM_yR8Q/-JdNJ5tMRqY.jpg?size=1116x1258&quality=96&sign=d187a78b0d21648de1893bc7f73dd10f&type=album" alt="mem" width="250"/>
+<img src="https://sun9-54.userapi.com/impg/3AbGLgOYYkxJ_LurEFbtmwXEOsdt7V_fM_yR8Q/-JdNJ5tMRqY.jpg?size=1116x1258&quality=96&sign=d187a78b0d21648de1893bc7f73dd10f&type=album" alt="mem" width="300"/>
 <!--
 **idexlism/idexlism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
