@@ -1,6 +1,6 @@
 ## Ghbdtn)
-![mem)](https://github.com/idexlism/pic/raw/blob/main/-JdNJ5tMRqY.jpg
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![mem)](https://github.com/idexlism/pic/raw/blob/main/-JdNJ5tMRqY.jpg)
+
 <!--
 **idexlism/idexlism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
